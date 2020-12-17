@@ -1,0 +1,4 @@
+OBJECT_BASE 463473.btg
+OBJECT NTTU.btg
+OBJECT_SHARED Models/Airport/windsock.xml -151.831819 -16.244198 6.0 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -151.832331 -16.244677 6.8 0.00
